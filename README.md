@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chiragagg5k-poke-mcp-badge.png)](https://mseep.ai/app/chiragagg5k-poke-mcp)
+
 [![smithery badge](https://smithery.ai/badge/@NaveenBandarage/poke-mcp)](https://smithery.ai/server/@NaveenBandarage/poke-mcp)
 ## Overview
 
